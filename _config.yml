@@ -1,0 +1,23 @@
+name: Photo Studio-John Ferguson
+favicon: null
+layout_spectrum: 0.0009249863214790821
+typography_spectrum: 0.8785302829928696
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.394162115175277
+  lightness: 0.15452179545536637
+  saturation: 0.7135113619733602
+  rhythmicContrast: 0.6493745883926749
+purpose: []
